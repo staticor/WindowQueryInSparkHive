@@ -1,2 +1,7 @@
 .~*
 *.crc
+Example_3_Hive.hql
+.metals/metals.lock.db
+.metals/metals.mv.db
+.vscode/settings.json
+.metals/metals.log
